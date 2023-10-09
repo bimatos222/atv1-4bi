@@ -1,0 +1,50 @@
+.Coffee{
+
+    border: 5px solid cornflowerblue;
+    background-color: black;
+    width: 500px;
+    color: white;
+    height: 120px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top:10px;
+    margin: 0 auto;
+
+
+}
+
+.Floratta{
+    border: 5px solid violet;
+    background-color: black;
+    width: 400px;
+    color: white;
+    height: 121px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top:10px;
+    margin: 0 auto;
+}
+
+.Intense{
+    border: 5px solid teal;
+    background-color: black;
+    width: 600px;
+    color: white;
+    height: 122px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top:10px;
+    margin: 0 auto;
+}
+
+.Chic{
+    border: 5px solid yellow;
+    background-color: black;
+    width: 700px;
+    color: white;
+    height: 123px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top:10px;
+    margin: 0 auto;
+}
